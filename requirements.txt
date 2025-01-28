@@ -1,0 +1,5 @@
+pypdf
+langchain
+langchain-community
+chromadb
+boto3
